@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-10T17:04:17 MYT" name="Default suite" finished-at="2024-12-10T17:04:21 MYT" duration-ms="4652">
+    <groups>
+    </groups>
+    <test started-at="2024-12-10T17:04:17 MYT" name="Default test" finished-at="2024-12-10T17:04:21 MYT" duration-ms="4652">
+      <class name="Tests.RateCalculatorTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.RateCalculatorTest@67a20f67]" started-at="2024-12-10T17:04:17 MYT" name="setup" finished-at="2024-12-10T17:04:18 MYT" duration-ms="1509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="rateCalculatorTest()[pri:0, instance:Tests.RateCalculatorTest@67a20f67]" started-at="2024-12-10T17:04:18 MYT" name="rateCalculatorTest" finished-at="2024-12-10T17:04:21 MYT" duration-ms="2914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rateCalculatorTest -->
+        <test-method is-config="true" signature="screenCapture(org.testng.ITestResult)[pri:0, instance:Tests.RateCalculatorTest@67a20f67]" started-at="2024-12-10T17:04:21 MYT" name="screenCapture" finished-at="2024-12-10T17:04:21 MYT" duration-ms="201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=rateCalculatorTest status=SUCCESS method=RateCalculatorTest.rateCalculatorTest()[pri:0, instance:Tests.RateCalculatorTest@67a20f67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenCapture -->
+      </class> <!-- Tests.RateCalculatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
