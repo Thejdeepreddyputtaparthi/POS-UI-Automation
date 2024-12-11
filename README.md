@@ -35,4 +35,9 @@ Tests will be triggered and executed successfully with report generated ( test-o
 
 ![image](https://github.com/user-attachments/assets/e781b2db-06b3-4b50-9e48-57fd369764b5)
 
+Issue : India can not be selected from Dropdown , hence selected another country
+Attached the screen shot for reference
+<img width="869" alt="image" src="https://github.com/user-attachments/assets/b1e0c467-f741-4777-8661-122054ced89a">
+
+
 
